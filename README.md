@@ -7,7 +7,7 @@ This project demonstrates a simulated enterprise Network Operations Center (NOC)
 
 The objective is to simulate the daily responsibilities of a Network Operations Center Engineer, including infrastructure monitoring, network troubleshooting, incident management, routing diagnostics, performance analysis, and operational documentation.
 
-Technologies
+# Technologies
 
 Proxmox VE
 
@@ -49,11 +49,11 @@ Centralize infrastructure logs.
 
 Develop operational procedures and technical documentation.
 
-Practical Demonstrations
+# Practical Demonstrations
 
 The lab includes simulated router failures, WAN connectivity interruptions, routing adjacency problems, DNS and DHCP outages, network congestion, server failures, and monitoring alerts.
 
-Documentation
+# Documentation
 
 Each project contains architecture diagrams, implementation instructions, configuration examples, troubleshooting evidence and incident reports.
 
